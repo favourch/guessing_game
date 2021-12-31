@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Rustlings" />
+  <img src="./.github/app.gif" alt="Rust" />
 
   &#xa0;
 
